@@ -106,6 +106,8 @@ ExpressVPN的退款流程透明、友好，为用户提供了充足的试用保�
 
 正如前文所述，ExpressVPN已正式关闭所有镜像站，而市面上又充斥着不少山寨客户端，用户若通过非官方渠道下载，可能面临数据泄露和安全隐患。为确保大家能够安全、顺利地体验ExpressVPN，我们建议点击下方链接直达ExpressVPN官网，下载适用于各设备的正版客户端。
 
+![ExpressVPN下载指南：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？](https://raw.githubusercontent.com/fastvpncn/expressvpn-review/refs/heads/main/image/ExpressVPN%E8%AF%84%E6%B5%8B-6.jpg)
+
 * ExpressVPN Windows客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-windows
 * ExpressVPN MacOS客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-mac
 * ExpressVPN Linux客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-linux
