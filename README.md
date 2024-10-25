@@ -1,5 +1,7 @@
 # ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN好用吗？
 
+<p align="center">最近更新于：2024年10月25日</p>
+
 ExpressVPN作为全球最顶级的VPN服务商，凭借出色的翻墙能力和超快的连接速度，在中国拥有大量忠实用户和良好的口碑。然而，许多尚未使用该服务的用户依然心存疑惑：ExpressVPN国内还能用吗？ExpressVPN中国怎么样？ExpressVPN好用吗？在本篇ExpressVPN评测中，我们将从翻墙能力、安全性、使用体验和价格等多个方面进行深入分析，帮助你更全面地了解ExpressVPN在中国的实际表现。
 
 ## ExpressVPN官网和背景简介
@@ -8,7 +10,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛（BVI），由Kap
 
 在中国大陆，受防火长城（GFW）限制，ExpressVPN的官方网站曾多次被封。为方便中国用户访问，ExpressVPN曾推出多个镜像站点。然而，随着其全球知名度的提升，市场上出现了大量假冒镜像站，欺骗用户下载虚假的VPN软件，带来巨大的安全风险。因此，ExpressVPN最终取消了所有镜像站点，仅保留唯一官方网站。用户在购买或下载ExpressVPN客户端时，务必通过官方渠道，防止假冒网站造成损失。
 
-* ExpressVPN官网：https://www.expressvpn.com/
+* ExpressVPN官网：<a href="https://bit.ly/eps-vpn">https://www.expressvpn.com/</a>
 
 ## ExpressVPN中国能用吗？ 
 
