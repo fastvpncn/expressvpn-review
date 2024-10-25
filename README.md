@@ -163,6 +163,8 @@ ExpressVPN的退款流程简单明了。只需在30天内通过官方网站联�
 
 总的来说，ExpressVPN在速度、隐私保护、全球覆盖和技术支持方面表现优异，是一款综合实力极强的VPN服务。对于追求稳定、快速和高安全性的用户来说，ExpressVPN确实是目前市场上最值得信赖的选择之一。
 
+<p align="center"><a href="https://bit.ly/eps-vpn">获取ExpressVPN优惠</a></p>
+
 ## ExpressVPN和NordVPN哪个更好用？
 
 在选择VPN时，ExpressVPN和NordVPN常被用户拿来比较。作为两大知名VPN服务，它们各具优势，但在中国的实际使用效果上，ExpressVPN无疑更为出色。
