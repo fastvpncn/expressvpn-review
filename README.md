@@ -10,7 +10,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛（BVI），由Kap
 
 在中国大陆，受防火长城（GFW）限制，ExpressVPN的官方网站曾多次被封。为方便中国用户访问，ExpressVPN曾推出多个镜像站点。然而，随着其全球知名度的提升，市场上出现了大量假冒镜像站，欺骗用户下载虚假的VPN软件，带来巨大的安全风险。因此，ExpressVPN最终取消了所有镜像站点，仅保留唯一官方网站。用户在购买或下载ExpressVPN客户端时，务必通过官方渠道，防止假冒网站造成损失。
 
-* ExpressVPN官网：<a href="https://bit.ly/eps-vpn">https://www.expressvpn.com/</a>
+* ExpressVPN官网：<a href="https://bit.ly/eps-vpn">www.expressvpn.com/</a>
 
 ## ExpressVPN中国能用吗？ 
 
