@@ -214,3 +214,5 @@ ExpressVPN自研的Lightway协议进一步提升了其穿透GFW的能力，保�
 * <a href=https://github.com/fastvpncn/pcvpn.github.io>电脑翻墙</a>教程和<a href=https://github.com/fastvpncn/pcvpn.github.io>电脑VPN</a>推荐：本文将推荐几款最佳的电脑VPN软件，它们翻墙非常稳定，安全性高，并能够兼容多种设备，包括电脑、手机、平板、路由器和智能电视。这些电脑翻墙软件还能够轻松解锁YouTube、Netflix、Facebook、ChatGPT、Claude和TikTok等平台，让你畅享全球内容。
 
 * <a href="https://github.com/fastvpncn/letsvpn-review">快连VPN怎么样</a>：快连VPN安全吗？快连VPN是钓鱼软件吗？本文将从多角度评测快连VPN，深入分析快连VPN是哪个国家的，在中国大陆是否好用，以及快连VPN价格和退款政策，帮助你更清晰地了解快连VPN，为你提供真实、客观的参考依据。
+
+* <a href="https://github.com/fastvpncn/wang-vpn">老王VPN怎么样</a>：网络上关于老王VPN加速器的争议从未停歇过，比如老王VPN是钓鱼VPN吗？老王VPN被抓了吗？老王VPN用不了了吗？那么老王VPN怎么样？老王VPN安全稳定吗？老王VPN官网是哪个？本篇文章将为你深入解析老王加速器的实际情况，从基本介绍到安全性分析，帮助你更全面地了解这个备受关注的翻墙软件。
