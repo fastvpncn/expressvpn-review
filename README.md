@@ -121,9 +121,9 @@ ExpressVPN的退款流程透明、友好，为用户提供了充足的试用保�
 
 ExpressVPN可以帮助中国用户轻松绕过GFW的封锁，访问受地域限制的海外网站和应用。然而，要确保ExpressVPN在中国顺利运行，完整的设置步骤至关重要。从购买、下载到安装和实际使用，每一步都决定了ExpressVPN能否在复杂的网络环境中发挥最佳效果。以下是详细的操作指南，帮助你在中国轻松体验ExpressVPN的全方位服务。
 
-第一步：<a href="https://bit.ly/eps-vpn">前往ExpressVPN的官方网站完成购买</a>。建议选择性价比最高的12个月套餐，通过我们的专属链接购买还可额外获赠3个月服务。选择套餐后，按照页面指引创建账户，并使用支持的支付方式（如银联卡、信用卡、PayPal等）完成付款。整个购买过程简洁明了，付款完成后你将收到一封确认邮件，其中包含账户信息和下载指南。
+第一步：<a href="https://bit.ly/eps-vpn">前往ExpressVPN的官方网站完成购买</a>。建议选择性价比最高的2年套餐，通过我们的专属链接购买还可额外获赠6个月服务。选择套餐后，按照页面指引创建账户，并使用支持的支付方式（如银联卡、信用卡、PayPal等）完成付款。整个购买过程简洁明了，付款完成后你将收到一封确认邮件，其中包含账户信息和下载指南。
 
-![ExpressVPN中国使用步骤一：访问ExpressVPN官网，选择一个付费套餐并完成付款](https://raw.githubusercontent.com/fastvpncn/expressvpn-review/refs/heads/main/image/ExpressVPN%E8%AF%84%E6%B5%8B-3.jpg)
+![ExpressVPN中国使用步骤一：访问ExpressVPN官网，选择一个付费套餐并完成付款](https://raw.githubusercontent.com/fastvpncn/expressvpn-review/refs/heads/main/image/ExpressVPN%E8%AF%84%E6%B5%8B-3-1.jpg)
 
 第二步：使用账户信息登录ExpressVPN官网，进入“下载”页面。官网会自动识别你的设备类型，并显示适配的客户端版本。点击“下载”按钮完成客户端的安装，整个安装过程简单直观。下载完成后，打开ExpressVPN客户端，根据提示输入账户信息登录，系统会自动完成初始配置，无需复杂设置。安装后，ExpressVPN会自动选择最佳协议（通常为Lightway协议），以确保在中国网络环境下的连接速度与稳定性。
 
