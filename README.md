@@ -1,6 +1,6 @@
 # ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？
 
-<p align="center">最近更新于：2024年11月19日</p>
+<p align="center">最近更新于：2024年12月5日</p>
 
 ExpressVPN作为全球最顶级的VPN服务商，凭借出色的翻墙能力和超快的连接速度，在中国拥有大量忠实用户和良好的口碑。然而，许多尚未使用该服务的用户依然心存疑惑：ExpressVPN国内还能用吗？ExpressVPN中国怎么样？ExpressVPN好用吗？在本篇ExpressVPN评测中，我们将从翻墙能力、安全性、使用体验和价格等多个方面进行深入分析，帮助你更全面地了解ExpressVPN在中国的实际表现。
 
@@ -114,14 +114,16 @@ ExpressVPN的退款流程透明、友好，为用户提供了充足的试用保�
 
 ![ExpressVPN下载指南：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？](https://raw.githubusercontent.com/fastvpncn/expressvpn-review/refs/heads/main/image/ExpressVPN%E8%AF%84%E6%B5%8B-6.jpg)
 
-* ExpressVPN Windows客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-windows
-* ExpressVPN MacOS客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-mac
-* ExpressVPN Linux客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-linux
-* ExpressVPN iOS客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-ios
-* ExpressVPN Android客户端下载地址：https://www.expressvpn.com/vpn-download/vpn-android
-* 适用于其他设备的ExpressVPN客户端下载地址：https://www.expressvpn.com/vpn-download
+* ExpressVPN Windows客户端下载地址：Expressvpn.com/vpn-download/vpn-windows
+* ExpressVPN MacOS客户端下载地址：Expressvpn.com/vpn-download/vpn-mac
+* ExpressVPN Linux客户端下载地址：Expressvpn.com/vpn-download/vpn-linux
+* ExpressVPN iOS客户端下载地址：Expressvpn.com/vpn-download/vpn-ios
+* ExpressVPN Android客户端下载地址：Expressvpn.com/vpn-download/vpn-android
+* 适用于其他设备的ExpressVPN客户端下载地址：Expressvpn.com/vpn-download
 
 使用通过官网下载的ExpressVPN客户端，不仅可以享受最新的加密技术和稳定的服务器支持，还能获得及时的技术更新和安全保护。无论是在手机、电脑，还是其他智能设备上，ExpressVPN的官方版本都能为用户提供高速且安全的连接体验。
+
+注意：中国大陆的iOS用户可以通过“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”直接购买一个现成的美区AppleID，随后就可以使用该AppleID下载ExpressVPN的iOS客户端！
 
 ## ExpressVPN在中国如何使用？
 
